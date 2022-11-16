@@ -40,13 +40,10 @@
 [![Vaultwarden](https://img.shields.io/badge/-Vaultwarden-175DDC?style=flat\&logo=Bitwarden)](https://github.com/dani-garcia/vaultwarden)
 [![Tor Project](https://img.shields.io/badge/-Tor_Project-7E4798?style=flat\&logo=tor-project)](https://www.torproject.org)
 [![Matrix](https://img.shields.io/badge/-Matrix-000000?style=flat\&logo=Matrix\&logoColor=white)](https://matrix.org)
-[![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat\&logo=Fedora\&logoColor=white)](https://getfedora.org)
 [![Gnome](https://img.shields.io/badge/-Gnome-4A86CF?style=flat\&logo=Gnome\&logoColor=white)](https://www.gnome.org)
 [![Mastodon](https://img.shields.io/badge/-Mastodon-3088D4?style=flat\&logo=Mastodon\&logoColor=white)](https://joinmastodon.org)
 [![Jitsi](https://img.shields.io/badge/-Jitsi-97979A?style=flat\&logo=Jitsi\&logoColor=white)](https://jitsi.org)
 [![BigBlueButton](https://img.shields.io/badge/-BigBlueButton-283274?style=flat\&logo=BigBlueButton\&logoColor=white)](https://bigbluebutton.org)
-[![F-Droid](https://img.shields.io/badge/-F--Droid-1976D2?style=flat\&logo=F-Droid\&logoColor=white)](https://f-droid.org/en/)
 [![Homebrew](https://img.shields.io/badge/-Homebrew-FBB040?style=flat\&logo=Homebrew\&logoColor=white)](https://brew.sh)
-[![OpenWrt](https://img.shields.io/badge/-OpenWrt-00B5E2?style=flat\&logo=OpenWrt\&logoColor=white)](https://openwrt.org)
 [![WireGuard](https://img.shields.io/badge/-WireGuard-88171A?style=flat\&logo=WireGuard\&logoColor=white)](https://www.wireguard.com)
 
