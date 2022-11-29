@@ -37,7 +37,7 @@
 [![Nextcloud](https://img.shields.io/badge/-Nextcloud-0082C9?style=flat\&logo=Nextcloud)](https://nextcloud.com)
 [![ONLYOFFICE](https://img.shields.io/badge/-ONLYOFFICE-444444?style=flat\&logo=onlyoffice\&logoColor=white)](https://www.onlyoffice.com)
 [![Pi-hole](https://img.shields.io/badge/-Pi--hole-96060C?style=flat\&logo=Pi-hole)](https://pi-hole.net)
-[![Bitwarden](https://img.shields.io/badge/-Vaultwarden-175DDC?style=flat\&logo=Bitwarden)](https://github.com/dani-garcia/vaultwarden)
+[![Bitwarden](https://img.shields.io/badge/-Bittwarden-175DDC?style=flat\&logo=Bitwarden)](http://bitwarden.com/)
 [![Tor Project](https://img.shields.io/badge/-Tor_Project-7E4798?style=flat\&logo=tor-project)](https://www.torproject.org)
 [![Matrix](https://img.shields.io/badge/-Matrix-000000?style=flat\&logo=Matrix\&logoColor=white)](https://matrix.org)
 [![Gnome](https://img.shields.io/badge/-Gnome-4A86CF?style=flat\&logo=Gnome\&logoColor=white)](https://www.gnome.org)
