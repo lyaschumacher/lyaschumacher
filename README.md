@@ -20,17 +20,17 @@
 [![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat\&logo=Debian)](https://www.debian.org)
 [![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat\&logo=Proxmox\&logoColor=white)](https://www.proxmox.com/en/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat\&logo=Python\&logoColor=white)](https://www.python.org)
+[![Podman](https://img.shields.io/badge/-Podman-892CA0?style=flat\&logo=Podman\&logoColor=white)](https://podman.io)
+[![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat\&logo=Go\&logoColor=white)](https://go.dev)
 
 
 ### ToDo
 
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat\&logo=Kubernetes\&logoColor=white)](https://kubernetes.io)
-[![Podman](https://img.shields.io/badge/-Podman-892CA0?style=flat\&logo=Podman\&logoColor=white)](https://podman.io)
 [![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat\&logo=Prometheus\&logoColor=white)](https://prometheus.io)
 [![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat\&logo=Grafana\&logoColor=white)](https://grafana.com)
 [![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat\&logo=MariaDB\&logoColor=white)](https://mariadb.org)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat\&logo=PostgreSQL\&logoColor=white)](https://www.postgresql.org)
-[![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat\&logo=Go\&logoColor=white)](https://go.dev)
 
 ### Projects i enjoy
 
