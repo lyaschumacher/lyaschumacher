@@ -2,7 +2,7 @@
 
 ### About me
 * privacy and open source advocate
-* currently in training to become an IT specialist
+* currently working for DudenLearnattack GmbH as DevOps Engineer
 
 ### Things I work with
 
