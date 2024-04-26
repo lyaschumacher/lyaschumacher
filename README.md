@@ -6,6 +6,9 @@
 
 ### Things I work with
 
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat\&logo=Kubernetes\&logoColor=white)](https://kubernetes.io)
+[![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat\&logo=Prometheus\&logoColor=white)](https://prometheus.io)
+[![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat\&logo=Grafana\&logoColor=white)](https://grafana.com)
 [![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat\&logo=Markdown)](https://www.markdownguide.org)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat\&logo=Git\&logoColor=white)](https://git-scm.com)
 [![Github](https://img.shields.io/badge/-Github-181717?style=flat\&logo=Github)](https://github.com)
@@ -26,9 +29,6 @@
 
 ### ToDo
 
-[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat\&logo=Kubernetes\&logoColor=white)](https://kubernetes.io)
-[![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat\&logo=Prometheus\&logoColor=white)](https://prometheus.io)
-[![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat\&logo=Grafana\&logoColor=white)](https://grafana.com)
 [![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat\&logo=MariaDB\&logoColor=white)](https://mariadb.org)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat\&logo=PostgreSQL\&logoColor=white)](https://www.postgresql.org)
 
